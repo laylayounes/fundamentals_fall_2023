@@ -1,0 +1,95 @@
+
+
+.funkytown {
+	text-align:  right;
+	font-weight:  bold;
+	color:  purple;
+}
+
+
+
+h1 {
+	color: orange;
+    font-family: arial;
+    margin: 50px;
+}
+
+p {
+	margin: 20px;
+}
+
+.first-p {
+	color: pink;
+}
+
+.second-p {
+	color:  green;
+}
+
+
+h1, h2, h4, p {
+	margin: 20px;
+}
+
+
+
+/*
+
+styling h1 tags!!!
+
+both have margins of 20 pixels
+make one a different color than the other
+both should have classes
+
+*/
+
+
+
+
+.box_wrapper {
+	padding:  10px;
+}
+
+.box_wrapper {
+	padding_bottom:  10px;
+}
+
+.box_wrapper {
+	padding:  10px 10px 10px 10px;
+}
+
+.box_wrapper {
+	border: 1px solid #ffffff;
+}
+
+.box_wrapper {
+	border-top:  5px dotted #ffffff;
+}
+
+.box_wrapper {
+	border-top:  5px dotted #ffffff;
+	border-bottom:  15px dotted #ffffff;
+}
+
+.box_wrapper {
+	margin:  15px;
+}
+
+.box_wrapper {
+	margin-bottom:  10px;
+}
+
+.box_wrapper {
+	margin:  10px 15px 10px 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
